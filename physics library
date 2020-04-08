@@ -1,0 +1,12 @@
+funtion isTouching(){
+
+if(sun.x<mercury.x, sun.x<venus.x, sun.x<earth.x , sun.x<mars.x, sun.x<jupiter.x, sun.x<saturn.x, sun.x<uranus.x, sun.x<neptune.x );
+
+if(sun.y<mercury.y, sun.y<venus.y, sun.y<earth.y , sun.y<mars.y, sun.y<jupiter.y, sun.y<saturn.y, sun.y<uranus.y, sun.y<neptune.y);
+
+
+}
+
+
+
+
